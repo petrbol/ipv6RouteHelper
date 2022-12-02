@@ -1,7 +1,7 @@
 ## ISC KEA6 IPv6 route helper
 
 This route helper receive information from ISC KEA IPv6 DHCP server using High Availability configuration and insert IPv6 prefixes to the routing table.
-Persistent after reboot, default routes are restored with default timer settings. Compiled app included in repo.
+Persistent after reboot, default routes are restored with default timer settings. Compiled app included in repo  (rctKea6RouteHelper).
 Developed for https://github.com/petrbol/RouterConfigurationTool/
 
 #### How to use
