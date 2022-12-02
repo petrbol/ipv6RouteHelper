@@ -31,7 +31,7 @@ Restart=on-abort
 [Install]
 WantedBy=multi-user.target
 ```
-#### Kea6 HA configuration to send information to the rctKea6RouteHelper
+#### Kea6 2.0.3 HA configuration to send information to the rctKea6RouteHelper
 ```
     "hooks-libraries": [
       {
